@@ -21,6 +21,9 @@ Google internal sales tool
 [drone.io](http://drone.io)
 : Continuous integration with support for testing Dart apps.
 
+[Lumo](https://lumo.sonardesign.com/)
+: Cross-platform dynamic presentations built with Dart, AngularDart and canvas. Some server side also in Dart.
+
 [Soundtrap](https://www.soundtrap.com/)
 : Collaboratively record music with your browser, built with Dart and WebRTC.
 
